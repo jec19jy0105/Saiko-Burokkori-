@@ -6,6 +6,7 @@ public class Hello {
 			System.out.println("za  world");
 			System.out.println("時よ止まれ");
 			System.out.println("そして時は動き出す");
+			System.out.println("ロードローラーだ！！");
 	}
 
 }
